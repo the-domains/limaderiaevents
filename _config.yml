@@ -1,0 +1,28 @@
+name: LimaDeriaEvents
+favicon: null
+layout_spectrum: 0.8087244995404035
+typography_spectrum: 0.7896042661741376
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5233858581632376
+  lightness: 0.8783023534342647
+  saturation: 0.24687982024624944
+  rhythmicContrast: 0.33600666956044734
+purpose: []
